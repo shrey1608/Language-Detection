@@ -14,7 +14,7 @@ To install it just clone the project and do (pip install langdetect)
 and then python lang.py or python3 lang.py
 
 # Preview
-please see the screenshots folder for how does it works.
+please see the image in the repo
 
 
 
